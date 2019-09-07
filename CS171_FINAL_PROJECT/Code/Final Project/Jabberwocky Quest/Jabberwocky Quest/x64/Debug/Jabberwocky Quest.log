@@ -1,0 +1,21 @@
+﻿Build started 5/17/2016 3:56:07 PM.
+     1>Project "Z:\CS-171\Final Project\Jabberwocky Quest\Jabberwocky Quest\Jabberwocky Quest.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt "Console Delay.cpp" Storyline.cpp
+         Storyline.cpp
+         Console Delay.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\CS-171\Final Project\Jabberwocky Quest\x64\Debug\Jabberwocky Quest.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"Z:\CS-171\Final Project\Jabberwocky Quest\x64\Debug\Jabberwocky Quest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Z:\CS-171\Final Project\Jabberwocky Quest\x64\Debug\Jabberwocky Quest.lib" /MACHINE:X64 x64\Debug\Battle.obj
+         "x64\Debug\Console Delay.obj"
+         "x64\Debug\Initializing Bestiary.obj"
+         "x64\Debug\Jabberwocky Quest.obj"
+         x64\Debug\Monster.obj
+         x64\Debug\Player.obj
+         x64\Debug\Storyline.obj
+         Jabberwocky Quest.vcxproj -> Z:\CS-171\Final Project\Jabberwocky Quest\x64\Debug\Jabberwocky Quest.exe
+     1>Done Building Project "Z:\CS-171\Final Project\Jabberwocky Quest\Jabberwocky Quest\Jabberwocky Quest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.83
